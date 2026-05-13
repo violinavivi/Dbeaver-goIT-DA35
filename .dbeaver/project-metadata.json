@@ -1,1 +1,1 @@
-{"resources":{"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-19e226d5b6a-1115e5db16aa2a57","default-catalog":"ads_analysis_goit_course","default-schema":"public"}}}
+{"resources":{"Scripts/Script-1.sql":{"default-datasource":"postgres-jdbc-19e226d5b6a-1115e5db16aa2a57","default-catalog":"ads_analysis_goit_course","default-schema":"public"},"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-19e226d5b6a-1115e5db16aa2a57","default-catalog":"ads_analysis_goit_course","default-schema":"public"}}}
