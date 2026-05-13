@@ -1,0 +1,42 @@
+{
+	"folders": {},
+	"connections": {
+		"postgres-jdbc-19e226d5b6a-1115e5db16aa2a57": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "ads_analysis_goit_course 2",
+			"save-password": true,
+			"virtual-model-id": "postgres-jdbc-19bfb817555-75d5429cf7351d1f",
+			"configuration": {
+				"host": "35.198.109.135",
+				"port": "5432",
+				"database": "ads_analysis_goit_course",
+				"url": "jdbc:postgresql://35.198.109.135:5432/ads_analysis_goit_course",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-chosen-role@": ""
+				},
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": false,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}

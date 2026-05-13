@@ -1,0 +1,1 @@
+select * from "HR".employees e where manager_id is NULL;
